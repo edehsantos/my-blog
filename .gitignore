@@ -1,0 +1,14 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore database files
+db.sqlite3
+
+# Ignore environment files (if you use one)
+.env
+
+# Ignore media files (user-uploaded content)
+media/
+
+# Ignore static files collected during development
+static/
